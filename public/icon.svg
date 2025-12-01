@@ -1,0 +1,54 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50" width="50" height="50">
+	<style>
+		.s0 { fill: #ef4562 } 
+		.s1 { fill: #d31f43 } 
+		.s2 { fill: #f26d6c } 
+		.s3 { fill: #eae025 } 
+		.s4 { fill: #f6a11d } 
+		.s5 { fill: #e7c31f } 
+		.s6 { fill: #3d66ac } 
+		.s7 { fill: #538ba4 } 
+		.s8 { fill: #68b0d1 } 
+		.s9 { fill: #c077b1 } 
+		.s10 { fill: #4f1a57 } 
+		.s11 { fill: #912689 } 
+		.s12 { fill: #dd1a87 } 
+		.s13 { fill: #ae1e5b } 
+		.s14 { fill: #ee4991 } 
+		.s15 { fill: #302d7c } 
+		.s16 { fill: #8178b8 } 
+		.s17 { fill: #534a9f } 
+		.s18 { fill: #a51e22 } 
+		.s19 { fill: #f04923 } 
+		.s20 { fill: #ed2224 } 
+		.s21 { fill: #60b646 } 
+		.s22 { fill: #325e2d } 
+		.s23 { fill: #3e7d3b } 
+	</style>
+	<g id="Layer 1">
+		<path class="s0" d="m17.7 0.1v10.9l9 4.8z"/>
+		<path class="s1" d="m17.7 0.1l-9.1 15.6 9.1-4.6z"/>
+		<path class="s2" d="m17.7 11.1l9 4.7h-18.1z"/>
+		<path class="s3" d="m8.6 4.8l3.4-1.8 5.6-3-1.4 2.4-5.4 9.4-1.4 2.4-0.9 1.4v-10.8z"/>
+		<path class="s4" d="m-0.4 0.1l9 15.6v-10.9z"/>
+		<path class="s5" d="m-0.4 0.1l9 4.8 9.1-4.8z"/>
+		<path class="s6" d="m26.7 15.7l-9 15.6 9-4.7z"/>
+		<path class="s7" d="m26.7 26.7l9 4.8-9-15.7z"/>
+		<path class="s8" d="m26.7 26.7l-9 4.8h18.1z"/>
+		<path class="s9" d="m17.7 31.4l9-15.7-9 4.8z"/>
+		<path class="s10" d="m17.7 20.5l-9.1-4.8 9.1 15.6z"/>
+		<path class="s11" d="m17.7 20.5l9-4.8h-18.1z"/>
+		<path class="s12" d="m35.7 0.1v10.9l9.1 4.8z"/>
+		<path class="s13" d="m35.7 0.1l-9 15.6 9-4.6z"/>
+		<path class="s14" d="m35.7 11.1l9.1 4.7h-18.1z"/>
+		<path class="s15" d="m44.8 15.7v-10.9l-9.1-4.8z"/>
+		<path class="s16" d="m53.9 0.1l-9 4.8v10.9z"/>
+		<path class="s17" d="m35.7 0.1l9.1 4.8 9-4.8z"/>
+		<path class="s18" d="m35.7 31.4l-9-15.7 9 4.8z"/>
+		<path class="s19" d="m35.7 20.5l9.1-4.8-9.1 15.6z"/>
+		<path class="s20" d="m35.7 20.5l-9-4.8h18.1z"/>
+		<path class="s21" d="m26.7 47l9-15.6-9 4.8z"/>
+		<path class="s22" d="m26.7 36.2l-9-4.8 9 15.6z"/>
+		<path class="s23" d="m26.7 36.2l9-4.8h-18z"/>
+	</g>
+</svg>
